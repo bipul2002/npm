@@ -1,1 +1,1 @@
-# npm
+# custom npm library
